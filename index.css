@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+.top{
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+}
+#boxhead{
+    color: red;
+}
+#mypwd{
+    width: 170px;
+    height: 20px;
+}
+#mysid{
+    width: 170px;
+    height: 20px;
+}
+#sub{
+    width: 480px;
+    height: 40px;
+    border-radius: 3px;
+}
+.information{
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+}
